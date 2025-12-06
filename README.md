@@ -3,7 +3,16 @@
 An interactive Sales Analytics dashboard built using **Streamlit, Pandas, Plotly, and Scikit-learn** to generate deep and actionable business insights.
 
 ---
+## 🖼️ Screenshot
+![Screenshot](screenshot.png)
+![Screenshot1](screenshot1.png)
 
+---
+
+## 🔗 Link
+https://sales-analytics-2019-dashboard.streamlit.app/
+
+---
 ## 🚀 Features
 
 ### 📈 Exploratory Data Analysis (EDA)
