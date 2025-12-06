@@ -159,6 +159,6 @@ Feel free to fork and raise PRs.
 
 ## 📬 Contact
 
-📧 Email: **[souvikbose337@gmail.com](mailto:souvikbose337@gmail.com)**
-🔗 LinkedIn: **[https://www.linkedin.com/in/souvik-thecvguy/](https://www.linkedin.com/in/souvikbose-ai/)**
-💻 GitHub: **[https://github.com/souvik-codes/](https://github.com/souvik-codes/)**
+- 📧 Email: **[souvikbose337@gmail.com](mailto:souvikbose337@gmail.com)**
+- 🔗 LinkedIn: **[https://www.linkedin.com/in/souvik-thecvguy/](https://www.linkedin.com/in/souvikbose-ai/)**
+- 💻 GitHub: **[https://github.com/souvik-codes/](https://github.com/souvik-codes/)**
